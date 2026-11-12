@@ -1,4 +1,4 @@
-Banking Management System
+# Banking Management System
 
 A simple console-based Banking Management System written in C as part of the **CodeAlpha Internship**.
 
@@ -7,5 +7,4 @@ A simple console-based Banking Management System written in C as part of the **C
 * Deposit money
 * Withdraw money
 * Check account balance
-* # CodeAlpha_Tasks
-C programming projects completed during CodeAlpha internship 
+
